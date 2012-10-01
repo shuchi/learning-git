@@ -1,4 +1,5 @@
 This is my the first file and file edited for stash.
 changes for stash.
+i am cloned.
 
 

@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 This is my the first file and file edited for master.
-=======
-This is my the first file and 
 
->>>>>>> new
